@@ -64,7 +64,6 @@
 | [consultorios-API](https://github.com/DavidArtavia/consultorios-API) | API REST para la gestión de casos de los Consultorios Jurídicos de la UCR (Sede Guanacaste). Autenticación con JWT, migraciones y seeders. | Node.js · Express · Sequelize · PostgreSQL |
 | [torneo-app](https://github.com/dorianprogrammer/torneo-app) | Sistema de gestión de torneos deportivos para el CCDR Tilarán (colaboración). Mis aportes: fase eliminatoria automática, tabla de posiciones, goleadores, mejor portero y módulo de tarjetas. | Next.js · TypeScript · Drizzle · SQLite |
 | [jsonstackviewer](https://github.com/dorianprogrammer/jsonstackviewer) | Herramienta open source para visualizar estructuras JSON complejas de respuestas de APIs (colaboración). | JavaScript |
-| [chatbot-david](https://github.com/DavidArtavia/chatbot-david) | Chatbot con inteligencia artificial para WhatsApp. | Java |
 
 ### Estadísticas
 
